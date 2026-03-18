@@ -15,7 +15,10 @@ Example: _<#ffffff>_
 Пример: _<#ffffff>_
 
 ## Other
+
 Commands:
 /rafk reload - reloads the plugin
+
 Permissions:
+
 rilkayafk.reload - allows to use the reload command
