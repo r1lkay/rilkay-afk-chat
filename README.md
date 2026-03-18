@@ -17,6 +17,7 @@ Example: _<#ffffff>_
 ## Other
 
 Commands:
+
 /rafk reload - reloads the plugin
 
 Permissions:
