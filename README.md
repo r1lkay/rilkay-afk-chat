@@ -23,3 +23,7 @@ Commands:
 Permissions:
 
 rilkayafk.reload - allows to use the reload command
+
+
+## Modrinth link:
+https://modrinth.com/plugin/rilkays-afk-chat
