@@ -1,7 +1,0 @@
-# Write time in seconds | Deffault: 3m(180s)
-afk-time: 180
-
-# Plugin supports MiniMessage formatting
-messages:
-  went-afk: "<#f5dda2>{player} is now AFK."
-  returned-afk: "<#f5dda2>{player} is no longer AFK."
