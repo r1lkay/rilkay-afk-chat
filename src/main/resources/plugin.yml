@@ -1,0 +1,17 @@
+name: rAFK-Chat
+version: 1.1
+main: com.afk.Main
+api-version: '1.21'
+author: rilkay
+
+commands:
+  rafk:
+    permission: rilkayafk.reload
+    usage: /<command> reload
+  afk:
+    permission: rilkayafk.afk
+    usage: /<command>
+
+permissions:
+  rilkayafk.reload:
+    default: op
